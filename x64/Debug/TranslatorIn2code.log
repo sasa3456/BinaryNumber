@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (TranslatorIn2code.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+D:\С++ проекты ( моё портфолио )\TranslatorIn2code\main.cpp(62): warning C4717: main: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  TranslatorIn2code.vcxproj -> D:\С++ проекты ( моё портфолио )\TranslatorIn2code\x64\Debug\BinaryNumber.exe

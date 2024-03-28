@@ -4,7 +4,7 @@
  
  
 <!-- установка -->
-## Ecnfyjdrf (Windows)
+## Установка (Windows)
 У вас должен быть установлен [CMake](https://cmake.org/download/)
 
 1. Распакуйте ZIP архив
